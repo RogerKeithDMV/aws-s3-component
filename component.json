@@ -1,0 +1,21 @@
+{
+  "title": "AWSS3NODEJS",
+  "description": "Stablish connection with the S3 service.",
+  "docsUrl": "",
+  "buildType": "docker",
+  "credentials": {
+    "fields": {}
+  },
+  "triggers": {
+    "awss3nodejs": {
+      "title": "Stablish connection with the S3 service.",
+      "main": "./lib/triggers/processTrigger.js"
+    }
+  },
+  "actions": {
+    "awss3": {
+      "title": "AWS S3 Component",
+      "main": "./lib/actions/awss3.js"
+    }
+  }
+}
