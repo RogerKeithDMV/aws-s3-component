@@ -1,0 +1,47 @@
+[![N|Solid](https://cloudgensys.com/cg-demo/wp-content/uploads/2019/05/CG-Logo-01.png)](https://www.cloudgensys.com/)
+
+# aws-s3-component
+
+This component is based on Open Integration Hub framework, allowing this to connect with other components in order to have different flow exchanging data in a specific goal of transformation for the information.
+
+This component allows to get a connection with a AWS S3 bucket.
+
+## Features
+
+- Get the list of all buckets of the account.
+- Create a new bucket for the account.
+- Upload a file from a local machine to an specific S3 bucket.
+- Get the list of files in a specific bucket.
+- Delete an specific bucket inside the account.
+- Get a file that is inside a bucket.
+- Get the grant of a bucket.
+
+
+## Libraries
+
+- [msgbroker-nxg-cg](https://www.npmjs.com/package/msgbroker-nxg-cg)
+- [utils-nxg-cg](https://www.npmjs.com/package/utils-nxg-cg)
+- [loging-elastic-cg-lib](https://www.npmjs.com/package/loging-elastic-cg-lib)
+- [aws-s3-cg-lib](https://www.npmjs.com/package/aws-s3-cg-lib)
+
+> For more detail of the functionality review **aws-s3-cg-lib** documentation
+
+## Installation
+
+Docker image: cloudgenuser/aws-s3-component:1.0.0
+
+Functions
+- trigger:
+  - awss3_source
+- action:
+  - awss3
+
+Fields:
+- accessKey: Is the key that gives you access to the Amazon services.
+- content: The text you want to contain the file.
+- fileName: The name of the file you want to create or get.
+- flag: The string that contains the actinon to execute, can be one of this: CREATETBUCKET, DELETEBUCKET, GETBUCKETGRANTS, GETFILE, GETLISTBUCKETS, GETLISTFILESINBUCKET, UPLOADFILE . The string is not case sensitive.
+- region: Is a code that Amazon use to give a fast service depending of your zone, you can see the codes and what is the neares code in your zone in the next link: https://aws.amazon.com/es/about-aws/global-infrastructure/regions_az/
+- secretKey: Is the password related to and access key.
+- bucketName: The name of the bucket that you want to create, deleted, to know grants, to search a file, to get the list of files or create the file.
+

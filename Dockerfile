@@ -20,11 +20,10 @@ RUN chmod +x ./start.sh
 
 
 #For local
-#ENV URI_RABBITMQ='amqp://guest:guest@rabbitmq-service.oih-dev-ns.svc.cluster.local'
+ENV URI_RABBITMQ='amqp://guest:guest@rabbitmq-service.oih-dev-ns.svc.cluster.local'
 
 #Nexgen
-ENV URI_RABBITMQ='amqp://guest:guest@rabbitmq-service.oih.svc.cluster.local'
-
+#ENV URI_RABBITMQ='amqp://guest:guest@rabbitmq-service.oih.svc.cluster.local'
 
 USER node
 

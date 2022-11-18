@@ -1,0 +1,70 @@
+[
+    {
+        "Name": "aws-sam-cli-managed-default-samclisourcebucket-ino3gbt2ta8v",
+        "CreationDate": "2022-04-26T16:13:39.000Z"
+    },
+    {
+        "Name": "cg-migration-bucket",
+        "CreationDate": "2022-04-22T21:03:46.000Z"
+    },
+    {
+        "Name": "cg-zfp4r-image-registry-us-east-1-bevggomqpxvhvcthiemaylyrmxrm",
+        "CreationDate": "2020-09-03T16:50:04.000Z"
+    },
+    {
+        "Name": "cg-zfp4r-image-registry-us-east-1-sfyvdaxcnmuriebvjcuppvpgrkmb",
+        "CreationDate": "2020-09-03T16:50:02.000Z"
+    },
+    {
+        "Name": "cgtest-athena",
+        "CreationDate": "2021-11-18T03:03:54.000Z"
+    },
+    {
+        "Name": "cm-qq4cl-image-registry-us-west-1-iyigrippcyswtgikkqufjyvpdpuv",
+        "CreationDate": "2020-08-10T08:39:29.000Z"
+    },
+    {
+        "Name": "cm-qq4cl-image-registry-us-west-1-ycfwiwinphgqebyaecmofrjratnq",
+        "CreationDate": "2020-08-10T08:39:24.000Z"
+    },
+    {
+        "Name": "elasticbeanstalk-us-east-1-155363134060",
+        "CreationDate": "2020-02-24T13:40:54.000Z"
+    },
+    {
+        "Name": "opencart-mariadb",
+        "CreationDate": "2020-08-25T07:25:43.000Z"
+    },
+    {
+        "Name": "openshift-project",
+        "CreationDate": "2020-10-16T11:13:35.000Z"
+    },
+    {
+        "Name": "scdf-cg-bucket",
+        "CreationDate": "2022-04-28T18:49:42.000Z"
+    },
+    {
+        "Name": "serverless11",
+        "CreationDate": "2022-04-26T10:37:52.000Z"
+    },
+    {
+        "Name": "tenant1-blogpost",
+        "CreationDate": "2020-10-09T06:48:50.000Z"
+    },
+    {
+        "Name": "terraform-20200810082228098700000001",
+        "CreationDate": "2020-08-10T08:22:29.000Z"
+    },
+    {
+        "Name": "test-aws.s3bucket",
+        "CreationDate": "2022-10-14T09:56:41.000Z"
+    },
+    {
+        "Name": "unit53",
+        "CreationDate": "2020-07-22T09:23:06.000Z"
+    },
+    {
+        "Name": "vapeq",
+        "CreationDate": "2021-02-03T07:19:22.000Z"
+    }
+]

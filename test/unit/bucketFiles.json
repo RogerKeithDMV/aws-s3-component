@@ -1,0 +1,118 @@
+{
+    "IsTruncated": false,
+    "Marker": "",
+    "Contents": [
+        {
+            "Key": "JsonToExcelSink-0.0.1.jar",
+            "LastModified": "2022-05-11T15:07:00.000Z",
+            "ETag": "\"a654deb46346fc86e47624caee67334d-6\"",
+            "ChecksumAlgorithm": [],
+            "Size": 96626561,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "cnpadmin_us",
+                "ID": "efdba14219b1468058a276bcd4b0f662b728f4a9401186dda9357d949e179520"
+            }
+        },
+        {
+            "Key": "PruebaJSON2.json",
+            "LastModified": "2022-09-08T22:43:30.000Z",
+            "ETag": "\"23784790bfaeb3c1d270e12628e3e8fe\"",
+            "ChecksumAlgorithm": [],
+            "Size": 410,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "cnpadmin_us",
+                "ID": "efdba14219b1468058a276bcd4b0f662b728f4a9401186dda9357d949e179520"
+            }
+        },
+        {
+            "Key": "SBMail-Sink2-0.0.1.jar",
+            "LastModified": "2022-05-09T18:56:19.000Z",
+            "ETag": "\"3a6dd152c7a7c96b35753778efcbc3c1-5\"",
+            "ChecksumAlgorithm": [],
+            "Size": 78736232,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "cnpadmin_us",
+                "ID": "efdba14219b1468058a276bcd4b0f662b728f4a9401186dda9357d949e179520"
+            }
+        },
+        {
+            "Key": "SBMail-Source2-0.0.1.jar",
+            "LastModified": "2022-05-03T18:42:24.000Z",
+            "ETag": "\"e8d78389ed292fdde91153eab8e0fae8-5\"",
+            "ChecksumAlgorithm": [],
+            "Size": 78858823,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "cnpadmin_us",
+                "ID": "efdba14219b1468058a276bcd4b0f662b728f4a9401186dda9357d949e179520"
+            }
+        },
+        {
+            "Key": "http-request-sink-0.0.1-SNAPSHOT.jar",
+            "LastModified": "2022-05-25T19:13:00.000Z",
+            "ETag": "\"e4f89bf786743e477e0dd014f50bf2a4-3\"",
+            "ChecksumAlgorithm": [],
+            "Size": 44838913,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "cnpadmin_us",
+                "ID": "efdba14219b1468058a276bcd4b0f662b728f4a9401186dda9357d949e179520"
+            }
+        },
+        {
+            "Key": "httprequest-0.0.1-SNAPSHOT-kafka.jar",
+            "LastModified": "2022-05-23T14:46:10.000Z",
+            "ETag": "\"598c20711d3ebbfa67c8378482a4c47e-3\"",
+            "ChecksumAlgorithm": [],
+            "Size": 44764394,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "cnpadmin_us",
+                "ID": "efdba14219b1468058a276bcd4b0f662b728f4a9401186dda9357d949e179520"
+            }
+        },
+        {
+            "Key": "insert_oracle.json",
+            "LastModified": "2022-09-16T15:56:34.000Z",
+            "ETag": "\"68d7f2dac8655ecf4f956423d5ed53b3\"",
+            "ChecksumAlgorithm": [],
+            "Size": 374977,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "cnpadmin_us",
+                "ID": "efdba14219b1468058a276bcd4b0f662b728f4a9401186dda9357d949e179520"
+            }
+        },
+        {
+            "Key": "sbcsvjson-0.0.1.jar",
+            "LastModified": "2022-05-19T14:54:16.000Z",
+            "ETag": "\"9492b19baea7cb346f0e289c78185bd6-5\"",
+            "ChecksumAlgorithm": [],
+            "Size": 79115008,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "cnpadmin_us",
+                "ID": "efdba14219b1468058a276bcd4b0f662b728f4a9401186dda9357d949e179520"
+            }
+        },
+        {
+            "Key": "shared-s3/",
+            "LastModified": "2022-05-12T20:43:41.000Z",
+            "ETag": "\"d41d8cd98f00b204e9800998ecf8427e\"",
+            "ChecksumAlgorithm": [],
+            "Size": 0,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "cnpadmin_us",
+                "ID": "efdba14219b1468058a276bcd4b0f662b728f4a9401186dda9357d949e179520"
+            }
+        }
+    ],
+    "Name": "scdf-cg-bucket",
+    "Prefix": "",
+    "MaxKeys": 1000,
+    "CommonPrefixes": []
+}

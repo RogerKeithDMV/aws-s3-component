@@ -1,0 +1,14 @@
+[
+    {
+    "mailFrom": "mymail@mail.com",     
+    "mailPerson": "Jafet Malváez",     
+    "mailTo": "mail.destiny@mail.com", 
+    "mailCc": null,
+    "mailBcc": null,
+    "mailSubject": "Prueba Mail",      
+    "mailContent": "Saludos",
+    "contentType": "text/plain",
+    "attachments": null,
+    "mailAccount": "smtp-mail.outlook.com,587,mymail@mail.com,pA55w0rD"
+    }
+]

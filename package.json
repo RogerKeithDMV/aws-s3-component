@@ -4,16 +4,21 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@aws-sdk/client-s3": "^3.190.0",
     "@openintegrationhub/ferryman": "^2.1.0",
     "@openintegrationhub/ferryman-1-7": "npm:@openintegrationhub/ferryman@^1.7.1",
+    "aws-s3-cg-lib": "1.0.8",
     "express": "^4.18.1",
     "msgbroker-nxg-cg": "^0.1.0",
-    "aws-s3-cg-lib": "1.0.0",
-    "utils-nxg-cg": "^1.0.10"
+    "utils-nxg-cg": "^1.1.15",
+    "md5-node-cg-lib": "^0.0.10"
+  },
+  "devDependencies": {
+    "jest": "^29.2.0"
   }
 }
